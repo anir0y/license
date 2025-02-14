@@ -1,30 +1,41 @@
-### **FML [Funny meme License] 2.0**
-#### License: *Yeet It Into the Void*
-Use it, no cap: You can use this code for whatever floats your boat (or sinks it). No strings attached—unless you count the spaghetti code holding everything together.
+#### License: *Yeet It Into the Multiverse*  
 
-Modify it, stay based: Feel free to tweak, twist, or completely overhaul this chaotic masterpiece. Just don’t come crying to me if your laptop starts whispering sweet binary nothings in the middle of the night.
+**1. Usage Rights (No Cap, Just Code)**  
+You are free to use this code for absolutely anything—building apps, powering robots, or even creating sentient AI overlords. No permission slips required. Just don’t blame me if your toaster starts demanding snacks.
 
-Distribute like a legend: Share this code far and wide, but remember: with great power comes zero responsibility. Don’t be shady about it though—if you share, give credit where it’s due. Or don’t. I’m not your mom.
+**2. Modification Policy (Tweak It, Bro)**  
+Feel free to remix, refactor, or completely rework this chaotic masterpiece. Add sprinkles, remove bugs, or turn it into a haiku generator—it’s all good. Just promise not to come crying if your computer starts speaking in binary poetry.
 
-No warranty, periodt: This code is provided “as-is,” which means if it breaks, glitches, or accidentally summons Cthulhu, you’re on your own. Two broken pieces = one whole problem.
+**3. Redistribution Guidelines (Share the Vibe)**  
+Spread the code far and wide, fam! If you redistribute it, please include attribution to the original creator (if known). Bonus points if you add a funny comment or two. Sharing is caring, but don’t be shady about it.
 
-Copyright? LOL, nah: If memes had owners, we’d all be broke from royalties. Consider this public domain—or at least as close as something can get without lawyers showing up.
+**4. Disclaimer of Warranty (Deal With It)**  
+This code comes with exactly **zero** warranties. None. Nada. Zilch. If it works perfectly, awesome! If it crashes spectacularly, well, that’s on you. Two broken pieces = one whole problem.
 
----
-
-### **Gen Z Vibe Check License**
-#### License: *Certified Clapback-Free*
-Use it, no tea spilled: Do what you want with this code. Whether you’re building a rocket ship or just trying to make toast, go off, queen/king/non-binary royalty.
-
-Remix it, stay iconic: Tweak it, flip it, reverse it—just keep the energy alive. Bonus points if you add extra drip. Extra penalties if you turn it into cringe.
-
-Spread the vibes, fam: Pass this code along, but keep it real. If you’re gonna share, do it right. No half measures, no Karen energy. Keep it authentic, keep it lit.
-
-No warranty, deal with it: This code has exactly **zero** guarantees. If it explodes, implodes, or turns your screen into hieroglyphics, that’s on you. Not me. Never me.
-
-Open-source life, always: Copyright? That’s so last season. This code belongs to everyone now. Think of it as a digital potluck—grab a plate, enjoy the chaos, and maybe bring something back to share.
+**5. Intellectual Property (CopyLOL, Not Copyright)**  
+This code is part of the public domain—or at least as close as we can get without lawyers showing up. Think of it as a digital potluck: grab a plate, enjoy the chaos, and maybe bring something back to share.
 
 ---
 
-### **Bonus Section: Legal Disclaimer (Because Adults Exist)**
-While these licenses are meant to be fun and lighthearted, they aren’t legally binding. For actual legal protection or clarity around usage rights, consider using a recognized open-source license like MIT, Apache 2.0, or GPL. But hey, if you’re here for the memes, carry on—you’re doing great.
+### **The Vibe Check License (Lit But Legal-ish)**  
+#### License: *Certified Clapback-Free*  
+
+**1. Permitted Use (Do What You Want, No Tea Spilled)**  
+Use this code however you vibe with it. Build rockets, automate memes, or teach your cat to code. No rules, no judgment, no cap. Just don’t sue me if your project accidentally becomes self-aware.
+
+**2. Modification Rules (Stay Based, Stay Lit)**  
+Tweak it, flip it, reverse it—but keep the drip alive. Whether you’re adding features, fixing bugs, or turning it into an NFT generator, make sure it stays iconic. And remember: extra points for creativity.
+
+**3. Redistribution Terms (Pass the Aux, Fam)**  
+Sharing is caring, so pass this code along to your friends, coworkers, or random strangers on the internet. Just keep it 100: include the original license and give credit where it’s due. No Karen energy allowed.
+
+**4. Limitation of Liability (Periodt, No Warranty)**  
+This code has **no warranty**, periodt. If it glitches, explodes, or accidentally hacks NASA, that’s on you. Not me. Never me. I’m just here for the memes.
+
+**5. Public Domain Declaration (Open-Source Life, Always)**  
+This code belongs to everyone now. It’s like finding a stray meme online—it’s too wild to be owned by anyone. So go ahead, yeet it into the void and let the universe decide its fate.
+
+---
+
+### **Bonus Section: Legal Disclaimer (Because Adults Exist)**  
+While this license is designed to be fun and lighthearted, it’s not legally binding. For actual legal protection or clarity around usage rights, consider using a recognized open-source license like MIT, Apache 2.0, or GPL. But hey, if you’re here for the vibes, carry on—you’re doing great.
